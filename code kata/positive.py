@@ -1,7 +1,7 @@
-value=int(input())
-if(value>0):
+yesh=int(input())
+if(yesh>0):
   print("Positive")
-elif(value<0):
+elif(yesh<0):
   print("Negative")
 else:
   print("Zero")
