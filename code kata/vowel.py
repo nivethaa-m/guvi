@@ -5,6 +5,6 @@ if(char.isdigit()):
 elif(char=='!'or char=='@'or char=='#' or char=='$' or char=='%' or char=='^' or char=='&' or char=='*'):
   print("invalid")
 elif(char=='a' or char=='e' or char=='i' or char=='o' or char=='u'):
-  print("vowel")
+  print("Vowel")
 else:
-  print("consonant")
+  print("Consonant")
