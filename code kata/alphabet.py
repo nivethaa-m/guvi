@@ -1,6 +1,6 @@
 char=input()
 char=char.lower()
 if(char.isalpha()):
-  print("Aphabet")
+  print("Alphabet")
 else:
   print("No")
