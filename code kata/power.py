@@ -1,4 +1,4 @@
-a=int(input())
-b=int(input())
-c=a**b
-print(c)
+f=int(input())
+s=int(input())
+ans=f**s
+print(ans)
