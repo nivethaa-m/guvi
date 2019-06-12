@@ -1,0 +1,13 @@
+f=int(input())
+s=int(input())
+t=int(input())
+if(f>=s):
+  if(f>=t):
+    print(f)
+  else:
+    print(t)
+else:
+  if(s>=t):
+    print(s)
+  else:
+    print(t)
